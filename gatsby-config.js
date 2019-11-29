@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Disco GatBoot`,
+    title: `Disco Gats Boot`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `Stuart Mackenzie`,
   },
