@@ -3,6 +3,10 @@ footer {
   padding-bottom: 3rem;
 }
 
+.siteTitle {
+  font-size: 1.7rem;
+}
+
 :root {
   --jumbotron-padding-y: 3rem;
 }
